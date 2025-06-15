@@ -1,0 +1,66 @@
+[
+  {
+    "Vehicle": "SUZUKI CIAZ",
+    "Model": 2020,
+    "V_No": "811258",
+    "Colour": "WHITE",
+    "Daily_Price": 60,
+    "Monthly_Price": 1350
+  },
+  {
+    "Vehicle": "HONDA CITY",
+    "Model": 2024,
+    "V_No": "918881",
+    "Colour": "WHITE",
+    "Daily_Price": 80,
+    "Monthly_Price": 1600
+  },
+  {
+    "Vehicle": "TOYOTA YARIS",
+    "Model": 2023,
+    "V_No": "927366",
+    "Colour": "WHITE",
+    "Daily_Price": 80,
+    "Monthly_Price": 1750
+  },
+  {
+    "Vehicle": "HYUNDAI KONA",
+    "Model": 2020,
+    "V_No": "153298",
+    "Colour": "BLUE",
+    "Daily_Price": 100,
+    "Monthly_Price": 2000
+  },
+  {
+    "Vehicle": "SUZUKI JIMNY",
+    "Model": 2021,
+    "V_No": "209195",
+    "Colour": "WHITE",
+    "Daily_Price": 140,
+    "Monthly_Price": null
+  },
+  {
+    "Vehicle": "LAND CRUISER GXR",
+    "Model": 2023,
+    "V_No": "775864",
+    "Colour": "WHITE",
+    "Daily_Price": 450,
+    "Monthly_Price": null
+  },
+  {
+    "Vehicle": "DODGE CHALLENGER",
+    "Model": 2023,
+    "V_No": "923704",
+    "Colour": "BLACK",
+    "Daily_Price": 400,
+    "Monthly_Price": null
+  },
+  {
+    "Vehicle": "HYUNDAI STARIA",
+    "Model": 2022,
+    "V_No": "811520",
+    "Colour": "BLACK",
+    "Daily_Price": 500,
+    "Monthly_Price": 6500
+  }
+]
